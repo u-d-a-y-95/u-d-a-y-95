@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I am looking to collaborate to machine learning project s**
 
-<h3 align="left">Tech Stack and Tools:</h3>
+
 
 
 
