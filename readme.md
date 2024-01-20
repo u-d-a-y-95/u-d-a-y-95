@@ -10,7 +10,7 @@
 
 - 📫 You can shoot me an email at **uday.dev.bd@gmail.com** I'll try to respond as soon as I can
 
-- ⚡ Fun fact **I am looking to collaborate to machine learning project s**
+- ⚡ Fun fact **I am looking to collaborate to machine learning projects **
 
 
 
